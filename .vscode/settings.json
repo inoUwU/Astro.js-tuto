@@ -6,6 +6,9 @@
   "[javascript]": {
     "editor.defaultFormatter": "biomejs.biome"
   },
+  "prettier.documentSelectors": [
+    "**/*.astro"
+  ],
   "[astro]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
