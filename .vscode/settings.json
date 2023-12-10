@@ -15,5 +15,6 @@
   "editor.codeActionsOnSave": {
     "quickfix.biome": true,
     "source.organizeImports.biome": true
-  }
+  },
+  "commentTranslate.targetLanguage": "ja"
 }
